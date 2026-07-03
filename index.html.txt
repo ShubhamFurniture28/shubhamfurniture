@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shubham Furniture</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f5f5f5;color:#333}
+header{background:#111;color:#fff;text-align:center;padding:60px 20px}
+header h1{font-size:48px;margin:0;color:#d4af37}
+header p{font-size:20px}
+.btn{display:inline-block;margin-top:20px;padding:12px 25px;background:#d4af37;color:#111;text-decoration:none;border-radius:30px;font-weight:bold}
+section{max-width:1100px;margin:auto;padding:50px 20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.card{background:#fff;padding:25px;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.1);text-align:center}
+footer{background:#111;color:#fff;text-align:center;padding:30px}
+.whatsapp{position:fixed;bottom:20px;right:20px;background:#25D366;color:#fff;padding:15px 20px;border-radius:50px;text-decoration:none;font-weight:bold}
+</style>
+</head>
+<body>
+
+<header>
+<h1>SHUBHAM FURNITURE</h1>
+<p>Every Piece, A Promise</p>
+<a class="btn" href="https://wa.me/919925601500">WhatsApp Now</a>
+</header>
+
+<section>
+<h2>Our Products</h2>
+<div class="grid">
+<div class="card">🛋️ Sofa Sets</div>
+<div class="card">🛏️ Beds</div>
+<div class="card">🚪 Wardrobes</div>
+<div class="card">📺 TV Units</div>
+<div class="card">🍽️ Modular Kitchen</div>
+<div class="card">🏠 Interior Design</div>
+</div>
+</section>
+
+<section>
+<h2>Why Choose Us?</h2>
+<ul>
+<li>✔ Premium Furniture</li>
+<li>✔ Custom Designs</li>
+<li>✔ Affordable Prices</li>
+<li>✔ Quality Materials</li>
+<li>✔ Delivery Across Surat</li>
+</ul>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p><strong>📍 Location:</strong> Surat, Gujarat</p>
+<p><strong>📞 Phone:</strong> +91 99256 01500</p>
+<p><strong>📷 Instagram:</strong> @Shubham_Furniture_28</p>
+</section>
+
+<footer>
+© 2026 Shubham Furniture • Every Piece, A Promise
+</footer>
+
+<a class="whatsapp" href="https://wa.me/919925601500">WhatsApp</a>
+
+</body>
+</html>
